@@ -8,7 +8,7 @@ def roal():
 roal()
 
 
-2번
+2번                     #for 문 으로는 모르겠음
 def roal():
     msg = input("문자열:")
     print("개별 문자 출력:",msg)
