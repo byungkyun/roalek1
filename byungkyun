@@ -1,12 +1,10 @@
-def roal():
-    msg = input("문자열:")
-    print("문자열 길이:",len(msg))
-    print("첫 번째 문자:",msg[0])
-    print("두 번째 문자:",msg[1])
-    print("마지막 문자:",msg[-1])
-    
-roal()
+1번
+str = input("문자열:)
 
+print("문자열 길이:",len(str))
+print("첫 번째 문자:",str[0])
+print(:두 번째 문자:",str[1])
+print("마지막 문자:",str[len(str)-1])
 
 2번                     #for 문 으로는 모르겠음
 def roal():
